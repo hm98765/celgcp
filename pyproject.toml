@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "celgcp"
+version = "1.0.1"
+description = ""
+authors = ["hm98765 <hm98765@github.com>"]
+readme = "README.md"
+repository = "https://github.com/hm98765/celgcp/"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+cel-python = "^0.1.5"
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.3.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
