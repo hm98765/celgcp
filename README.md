@@ -107,7 +107,6 @@ Apache 2.0; see [LICENSE](LICENSE) for details.
 ## Tests
 poetry run pytest ./tests/tests.py
 
-
 This is not an officially supported Google product. This project is not
 eligible for the [Google Open Source Software Vulnerability Rewards
 Program](https://bughunters.google.com/open-source-security).
